@@ -1,0 +1,6 @@
+{
+	"name": "cogo-debug",
+	"description": "A logger which can be used for server side and client side logging",
+	"version": "0.0.1",
+	"main": "src/index.js"
+}
