@@ -1,7 +1,7 @@
 {
 	"name": "cogo-debug",
-	"description": "A logger which can be used for server side and client side logging",
-	"version": "0.0.2",
+	"description": "A logger which can be used for server side and client side logging with all supports to console types eg .log, .error and all",
+	"version": "0.0.3",
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
