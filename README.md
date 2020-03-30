@@ -10,7 +10,7 @@ npm install cogo-debug
 ```bash
 debug.log('Any things you want')
 
-debug.error('Error)
+debug.error('Error')
 
 ```
 ## Prerequisite
