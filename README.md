@@ -1,5 +1,5 @@
 # cogo-debug
-Simple, Easy to use, Pure javascript, no configuration and small in size logger and debugger.
+Simple, Easy to use, Pure javascript, no configuration and small in size logger and debugger can be easily used for conditional production logging.
 
 
 ## Installation
