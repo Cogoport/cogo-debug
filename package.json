@@ -1,10 +1,23 @@
 {
 	"name": "cogo-debug",
 	"description": "A logger which can be used for server side and client side logging with all supports to console types eg .log, .error and all",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Cogoport/cogo-debug.git"
-	  }
+	  },
+	  "license": "MIT",
+	  "keywords": [
+		"log",
+		"logger",
+		"console logger",
+		"Production logger",
+		"production",
+		"debugger",
+		"cogo",
+		"debug",
+		"conditional logger",
+		"conditional logger production"
+	  ]
 }
