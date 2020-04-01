@@ -1,7 +1,6 @@
 # cogo-debug
 Simple, Easy to use, Pure javascript, no configuration and small in size logger and debugger.
 
-[![Small size]]
 
 ## Installation
 
