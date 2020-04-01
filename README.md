@@ -1,5 +1,7 @@
 # cogo-debug
-A pure java script debugger like cogoDebug.log() supports all cogoDebug types
+Simple, Easy to use, Pure javascript, no configuration and small in size logger and debugger.
+
+[![Small size]]
 
 ## Installation
 
@@ -107,6 +109,21 @@ cogoDebug.trace()
 Outputs a stack trace.
 
 ```
+
+## Conditional Logging
+
+### Via Javascript
+
+```javascript
+localStorage.setItem("debug", 'true');
+Show logs and other events
+
+localStorage.setItem("debug", 'false');
+Hids logs and other events
+```
+### Via Browser
+
+Directly set localStorage value in browser developer tools with tha name of `debug` as `true`.
 
 ## Prerequisite
 
